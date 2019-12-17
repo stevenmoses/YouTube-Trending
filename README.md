@@ -1,6 +1,12 @@
 # Youtube-Trending
 Jupyter Notebook that analyse YouTube trending videos.
 
+## Creator : 
+
+Steven Moses - 1806200236
+
+Undergraduate Computer Engineering Student of University of Indonesia
+
 ## Implementation :
 
 Run [this link](https://colab.research.google.com/drive/1riUIPcAJCDoawy9dIHDcn7PAeVTWLtaR) to run the implementation in Google Colab.
